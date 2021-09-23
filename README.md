@@ -12,7 +12,7 @@ _To extract image metadata such as GPS info, camera make, model and much more us
 * Pillow
 * Git
 
-## Installation
+## Installation [Linux]
 1. Clone this repository
 * `git clone https://github.com/DrNH4CK3R/Img-Forensic`
 1. Install requirements
