@@ -3,6 +3,22 @@ _To extract image metadata such as GPS info, camera make, model and much more us
 
 > Devices such as digital cameras, smartphones, and scanners use the EXIF standards to save images or audio files.
 
+## Features
+* [+] Easy to use
+* [+] Give info such as GPS info, Camera make, model etc...
+
+## Requirements
+* Python
+* Pillow
+* Git
+
+## Installation
+1. Clone this repository
+* `git clone https://github.com/DrNH4CK3R/Img-Forensic`
+1. Install requirements
+* `pip3 install -r requirements.txt`
+1. Run
+
 ## Screenshot
 
 <p align="center">
